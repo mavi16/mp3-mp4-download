@@ -16,9 +16,9 @@ Bu projeyi çalıştırmak için aşağıdaki Python kütüphanelerine ihtiyacı
 - `moviepy`: Videoları mp3 formatına dönüştürmek için
 
 Bu kütüphaneleri yüklemek için aşağıdaki komutu kullanabilirsiniz:
-
 ```bash
 pip install pytube moviepy
+```
 
 ## Hata Yönetimi
 URL geçersiz: Hatalı bir YouTube URL'si girildiğinde, "Hata oluştu: URL geçersiz." mesajı gösterilir.
